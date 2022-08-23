@@ -1,12 +1,9 @@
 # Typing-game
-e-typing-like typing game
+e-typing風のタイピングゲームです。
 
-## How to use
-There are just three steps to follow.
-1. Copy the code of typing-game.html.
-2. Open notepad, then paste it and save as .html file.
-3. Double clicking the .html file will automatically open the browser and you are ready to play.
+## 遊び方
+1. typing-game.htmlのコードをコピーしてください。
+2. メモ帳を開き、コピーしたコードを貼り付けて.htmlファイルとして保存します。（名前はtyping.htmlなどお好きに）
+3. 保存された.htmlファイルをダブルクリックするとブラウザが開き、ゲームをプレイできます。
 
-Have fun :)
-
-Note: All the contents needed to start the game are included in typing-game.html.
+注意：販売や再配布は禁止です。個人利用でのみプレイやカスタマイズをお楽しみください。
